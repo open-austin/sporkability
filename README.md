@@ -21,6 +21,7 @@ Have anything to add? Open a pull request.
     - Simplify your app as much as possible
 - Simplify your app as much as possible
     - Use simple easy to deploy technology
+        - Travis CI
     - Reduce the number of dependencies
         - Do you really need mongo and memcached?
         - Do you even need a server? Can it just be static HTML + JS files hosted on GitHub Pages?
