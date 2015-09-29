@@ -7,7 +7,7 @@ Have anything to add? Open a pull request.
 - Good READMEs and deployment instructions are important.
     - Brief description of what the project does and why it exists.
     - List where all the data the app uses, where it comes from, and from how it is used. Its important to answer this question: What is the minimum amount of data do I need to get this project running?
-
+    - List all dependencies and their versions, possibly using a tool such as Bower.
 - Choose a license and add it to your repo
     - Ideally just dedicate your work to the the Public Domain. The Unlicense is a good one for this.
     - Why public domain? MIT, GPL, and the rest don't answer the question of copyright.
