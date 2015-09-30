@@ -41,8 +41,19 @@ We need to do a few things to make this project easier to fork.
      - airbnb stylguide
 - [ ] Convert data/*.js files to JSON
 - [x] Move main html pages out of root directory
-- [x] Update README with makefile instructions
-  - Its important to answer this question: What is the minimum amount of data do I need to get this project running?
+- [x] README.md
+  - [ ] Explain what is the project why would someone else care
+     - An example of code or screen shot of an app
+  - [ ] Describe what the requirements are to re deploy the app.
+          "Think more than coding and technology.  What data would someone need to have to implement this project.  What other skills besides installing the software on a server are needed.  For example implementing a 211 system would require good skills organizing and leadership."
+  - [ ] How to contribute section
+  - [x] Update README with makefile instructions
+    - Its important to answer this question: What is the minimum amount of data do I need to get this project running?
+    - Have they been tested on a clean machine.
+- [ ] CHANGELOG.md
+      "It is a good idea to keep a changelog. http://keepachangelog.com (is a project on GitHub). "
+      - See https://github.com/cfpb/qu and https://github.com/cfpb/hmda-explorer
+      - Some Inspiration: http://keepachangelog.com/
 - [x] Move city specific config into one place
 - [x] Get rid of libs from js directory and either put them into a vendor folder or include them via build tool
 - [x] Move scripts into scripts directory
@@ -57,41 +68,43 @@ We need to do a few things to make this project easier to fork.
 
 
 Led by Luqmaan Dawoodjee
+
 Best practices for making projects easy to fork
 
--Flu Shot app - re-deploy failed!
--City took 3 months!  
+- Flu Shot app - re-deploy failed!
+- City took 3 months!  
+
 Calling out the different cities - not in the Readme!
 
-Easy to deploy apps?
--Boston GreenMap
--Chicago My Building is Recycled
--Cutepets Bot - Adoptable pets!
-They inspired us -
---Mongo and Memcached - Free Azure - ReDeploy took a month.  Gave up and deployed to Heroku!
---Project didn’t need to be soo complex!
---Simplify restAPI.  Simplify Javascript.
----Break project into multiple repos
---Maybe store stuff in a google forum!
---http://sheetsu.com/
+### Easy to deploy apps?
+- Boston GreenMap
+- Chicago My Building is Recycled
+- Cutepets Bot - Adoptable pets!
+- They inspired us -
+  - Mongo and Memcached - Free Azure - ReDeploy took a month.  Gave up and deployed to Heroku!
+  - Project didn’t need to be soo complex!
+  - Simplify restAPI.  Simplify Javascript.
+    - Break project into multiple repos
+- Maybe store stuff in a google forum!
+  - http://sheetsu.com/
 
-Contributing - you’re inputs will go to the public domain!
+### Contributing - you’re inputs will go to the public domain!
 
-How to tie hackpads and the repo?
-How do you use Github Issues?
--We rarely use the wiki
--Conversations 
--Project ideas - Push 
--Post a weekly status as an issue!
---OR use hackpads!?!?!
---Exponentially harder to get people to use 
+- How to tie hackpads and the repo?
+- How do you use Github Issues?
+  - We rarely use the wiki
+  - Conversations 
+  - Project ideas - Push 
+  - Post a weekly status as an issue!
+    - OR use hackpads!?!?!
+    - Exponentially harder to get people to use 
 
-Deploy work on Github Pages!
--Deployed projects to Github issues
--Can’t maintain projects on Github Issues?
--C-CAN?
--local-wiki?
--Wordpress?
--So many orgs can’t even get Wordpress up!
--Best documentation: - FusionTables - Derrik Edder in Chicago
+- Deploy work on Github Pages!
+  - Deployed projects to Github issues
+  - Can’t maintain projects on Github Issues?
+  - C-CAN?
+  - local-wiki?
+  - Wordpress?
+  - So many orgs can’t even get Wordpress up!
+  - Best documentation: - FusionTables - Derrik Edder in Chicago
 
