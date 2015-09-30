@@ -2,6 +2,9 @@
 
 Best practices for making projects easy to fork. The most important things you can do are: simplify your projects as much as possible, and
 
+Extra Notes
+https://docs.google.com/document/d/1k0k9uBXUCyIbLfwwJ4QXP5hqGNaq4UWi3SAHvjD9e_8/edit?usp=sharing
+
 Have anything to add? Open a pull request.
 
 - Good READMEs and deployment instructions are important.
