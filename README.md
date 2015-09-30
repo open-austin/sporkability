@@ -9,7 +9,7 @@ There's more to making a project forkable/adoptable/redeployable than just the c
 # Documentation
 
 ## README.md
-
+t
 See the [README-template.md]().
 
 - [ ] Brief description of what the project does and why it exists. Explain why would someone else care.
@@ -27,7 +27,7 @@ By default, include installation instructions in the README. Consider moving the
     - Python: requirements.txt
     - JavaScript: package.json
     - Ruby: Gemfile
-    - Go: :troll: (Check in your dependencies, I guess)
+    - Go: :trollface: (Check in your dependencies, I guess)
 - [ ] List dependencies that have to be manually installed. Link to useful guides on setting them up. Examples include Postgres, ...
 - [ ] Test your installation and deployment instructions on a clean machine.
 - [ ] CHANGELOG.md
