@@ -42,7 +42,8 @@ By default, include installation instructions in the README. Consider moving the
 
 # Licenses and Copyright
 
-- Choose a license and add it to your repo
+- [ ] Choose a license and add it to your repo
+    - ChooseALicense.com
     - Ideally just dedicate your work to the the Public Domain. The Unlicense is a good one for this.
     - Why public domain? MIT, GPL, and the rest don't answer the question of copyright.
 - Don't put copyright 2015 John, Jane, Bob, etc. on every page (or even anywhere in the app).
