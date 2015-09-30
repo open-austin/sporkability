@@ -68,41 +68,43 @@ We need to do a few things to make this project easier to fork.
 
 
 Led by Luqmaan Dawoodjee
+
 Best practices for making projects easy to fork
 
--Flu Shot app - re-deploy failed!
--City took 3 months!  
+- Flu Shot app - re-deploy failed!
+- City took 3 months!  
+
 Calling out the different cities - not in the Readme!
 
-Easy to deploy apps?
--Boston GreenMap
--Chicago My Building is Recycled
--Cutepets Bot - Adoptable pets!
-They inspired us -
---Mongo and Memcached - Free Azure - ReDeploy took a month.  Gave up and deployed to Heroku!
---Project didn’t need to be soo complex!
---Simplify restAPI.  Simplify Javascript.
----Break project into multiple repos
---Maybe store stuff in a google forum!
---http://sheetsu.com/
+### Easy to deploy apps?
+- Boston GreenMap
+- Chicago My Building is Recycled
+- Cutepets Bot - Adoptable pets!
+- They inspired us -
+  - Mongo and Memcached - Free Azure - ReDeploy took a month.  Gave up and deployed to Heroku!
+  - Project didn’t need to be soo complex!
+  - Simplify restAPI.  Simplify Javascript.
+    - Break project into multiple repos
+- Maybe store stuff in a google forum!
+  - http://sheetsu.com/
 
-Contributing - you’re inputs will go to the public domain!
+### Contributing - you’re inputs will go to the public domain!
 
-How to tie hackpads and the repo?
-How do you use Github Issues?
--We rarely use the wiki
--Conversations 
--Project ideas - Push 
--Post a weekly status as an issue!
---OR use hackpads!?!?!
---Exponentially harder to get people to use 
+- How to tie hackpads and the repo?
+- How do you use Github Issues?
+  - We rarely use the wiki
+  - Conversations 
+  - Project ideas - Push 
+  - Post a weekly status as an issue!
+    - OR use hackpads!?!?!
+    - Exponentially harder to get people to use 
 
-Deploy work on Github Pages!
--Deployed projects to Github issues
--Can’t maintain projects on Github Issues?
--C-CAN?
--local-wiki?
--Wordpress?
--So many orgs can’t even get Wordpress up!
--Best documentation: - FusionTables - Derrik Edder in Chicago
+- Deploy work on Github Pages!
+  - Deployed projects to Github issues
+  - Can’t maintain projects on Github Issues?
+  - C-CAN?
+  - local-wiki?
+  - Wordpress?
+  - So many orgs can’t even get Wordpress up!
+  - Best documentation: - FusionTables - Derrik Edder in Chicago
 
