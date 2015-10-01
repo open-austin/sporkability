@@ -8,12 +8,17 @@ Have anything to add? Fork this repo and open a pull request.
 
 ### Simplify your app as much as possible
 
-- Deploy buttons
+- *Deploy-This* buttons 
 - Reduce the number of dependencies
     - Do you really need mongo and memcached?
     - Do you even need a server? Can it just be static HTML + JS files hosted on GitHub Pages?
-- Use simple easy to deploy technology
+- Use simple, easy-to-deploy technology
     - Tools like Travis CI make deployment public. Anybody can look at the build history and figure out how things are built.
+
+### Put yourself in your forker’s shoes
+
+- Inline documentation, explain your thinking
+- User Context. Anything to better understand the intended users, uses, usage
 
 ### Licenses and Copyright
 
@@ -24,16 +29,23 @@ We recommend dedicating your work to the public domain. Why? The MIT, GPL, and o
 
 - Don't put copyright 2015 John, Jane, Bob, etc. on every page (or even anywhere in the app).
     - As somebody forking the repo, I don't want to put your name on every page. Will you be offended that I'm removing yourname?
-- Contributing - you’re inputs will go to the public domain!
+- Contributing - your inputs will go to the public domain!
 
 ### Admit your mistakes
 
 - Are you unhappy with the architecture or the code of your app? Say so in the README or an issue (and explain why). People trying to fork your app may encounter some of these same problems and have solutions. Or they may just give up.
-- Keep your city specific configuration in one file
-    - For example, if your app has a map with some initial coordinates, store those initial coordinates in a config file instead of making them difficult to find.
 
-- [ ] Its important to answer this question: What is the minimum amount of data do I need to get this project running?
-- [ ] List where all the data the app uses, where it comes from, and from how it is used. Its important to answer this question: What is the minimum amount of data do I need to get this project running?
+### Talk about your data
+
+- [ ] What is the minimum amount of data do I need to get this project running?
+- [ ] List where all the data the app uses, where it comes from, and how it is used.  
+- [ ] What is the minimum amount of data do I need to get this project running?
+- [ ] Keep your city specific configuration in one file
+    - For example, if your app has a map with some initial coordinates, store those initial coordinates in a config file instead of making them difficult to find.
+- [ ] Move other hard-coded values to a settings file. 
+- [ ] Sample data, please.
+- [ ] Tests and test data, if you used them.
+
 
 ### README.md
 
