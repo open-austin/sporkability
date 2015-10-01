@@ -6,9 +6,9 @@ Have anything to add? Fork this repo and open a pull request.
 
 This repo consists of three parts:
 
-1. [Guidelines](#Guidelines)
-2. [Examples of projects that do a good job making themselves easy to fork](#Examples)
-3. [README Template](#README-Template)
+1. [Guidelines](#guidelines)
+2. [Examples of projects that do a good job making themselves easy to fork](#examples)
+3. [README Template](#readme-template)
 
 # Guidelines
 
