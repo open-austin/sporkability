@@ -1,10 +1,12 @@
 # Project Name
 
-TODO: Write a project description
+TODO: Write a project description.
 
 TODO: Link to a demo, project homepage, or whatever makes sense
 
-TODO: Include a screenshot
+TODO: Include a screenshot, wireframe or something visual other than a logo.
+
+TODO: Sell your project.
 
 TODO: Include a logo if your project has one.
 
