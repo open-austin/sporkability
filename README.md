@@ -76,7 +76,7 @@ By default, include installation instructions in the README. Consider moving the
 
 ### Repo Metadata
 
-<img src="image/description-url.png" width="100">
+<img src="image/description-url.png" width="300">
 
 - [ ] Fill out the `Description` on GitHub
 - [ ] Fill out the `URL` on GitHub
