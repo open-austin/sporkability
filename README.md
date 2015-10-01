@@ -76,9 +76,11 @@ By default, include installation instructions in the README. Consider moving the
 
 ### Repo Metadata
 
+![](description-url.png)
+
 - [ ] Fill out the `Description` on GitHub
 - [ ] Fill out the `URL` on GitHub
-
+- 
 # Apps that have been easy to fork
 
 - Boston GreenMap
