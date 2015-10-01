@@ -1,4 +1,4 @@
-# forkability
+# sporkability
 
 Best practices for making projects easy to fork. The most important thing you can do is simplify your projects as much as possible. This repository was created as part of an unconference at the Code for America 2015 Summit.
 
@@ -52,7 +52,7 @@ By default, include installation instructions in the README. Consider moving the
     - Python: requirements.txt
     - JavaScript: package.json
     - Ruby: Gemfile
-    - Go: :troll: (Check in your dependencies, I guess)
+    - Go: :trollface: (Check in your dependencies, I guess)
 - [ ] List dependencies that have to be manually installed. Link to useful guides on setting them up. Examples include Postgres, ...
 - [ ] Test your installation and deployment instructions on a clean machine.
 - [ ] CHANGELOG.md
@@ -84,12 +84,3 @@ By default, include installation instructions in the README. Consider moving the
 - Boston GreenMap
 - [CutePetsBot] - Adoptable pets
 - [codeforamerica/bizfriendly-web](https://github.com/codeforamerica/bizfriendly-web/labels) - For its use of the [beginner friendly](https://github.com/codeforamerica/bizfriendly-web/issues?q=label%3A%22beginner+friendly%22+is%3Aclosed) [label](https://github.com/codeforamerica/bizfriendly-web/labels)
-
-- How to tie hackpads and the repo?
-- How do you use Github Issues?
-
-- Deploy work on Github Pages!
-  - Deployed projects to Github issues
-  - Can’t maintain projects on Github Issues?
-  - So many orgs can’t even get Wordpress up!
-  - Best documentation: - FusionTables - Derrik Edder in Chicago
