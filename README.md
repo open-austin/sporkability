@@ -1,4 +1,4 @@
-# sporkability :fork_and_knife: :couplekiss:
+# sporkability 🥄 🍴 
 
 Best practices for making projects easy to fork. The most important thing you can do is simplify your projects as much as possible. This repository was created as part of an unconference at the Code for America 2015 Summit.
 
