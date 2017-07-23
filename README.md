@@ -44,8 +44,8 @@ This repo consists of three parts:
 
 ### Talk about your data
 
-- [ ] What is the minimum amount of data do I need to get this project running?
-- [ ] List where all the data the app uses, where it comes from, and how it is used.  
+- [ ] What is the minimum amount of data needed to get the project running?
+- [ ] List all the data the app uses, where it comes from, and how it is used.  
 - [ ] Sample data, please.
 - [ ] Tests and test data, if you used them.
 
